@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\study\App_LED_DEMO\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="F:\study\App_LED_DEMO\app\build\intermediates\pre-dexed\debug\classes-ec5c3f285f48a269e1697525e8fbca6eec4b57a1.jar" />
+    </item>
+    <item
+        jar="F:\study\App_LED_DEMO\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="F:\study\App_LED_DEMO\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-0d611f2cea5621db13220eb769785ea320b1c897.jar" />
+    </item>
+    <item
+        jar="F:\study\App_LED_DEMO\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="F:\study\App_LED_DEMO\app\build\intermediates\pre-dexed\debug\classes-02d9a479ec628dc59a5c6734ebb5cfcbb756a51f.jar" />
+    </item>
+    <item
+        jar="D:\Android_stuido\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="F:\study\App_LED_DEMO\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-68859cc5d443d113f485b4f2c3d6165a915566a6.jar" />
+    </item>
+    <item
+        jar="F:\study\App_LED_DEMO\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="F:\study\App_LED_DEMO\app\build\intermediates\pre-dexed\debug\classes-ec5c3f285f48a269e1697525e8fbca6eec4b57a1.jar" />
+    </item>
+    <item
+        jar="F:\study\App_LED_DEMO\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="F:\study\App_LED_DEMO\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-0d611f2cea5621db13220eb769785ea320b1c897.jar" />
+    </item>
+    <item
+        jar="D:\Android_stuido\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="F:\study\App_LED_DEMO\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-68859cc5d443d113f485b4f2c3d6165a915566a6.jar" />
+    </item>
+    <item
+        jar="F:\study\App_LED_DEMO\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="F:\study\App_LED_DEMO\app\build\intermediates\pre-dexed\debug\classes-02d9a479ec628dc59a5c6734ebb5cfcbb756a51f.jar" />
+    </item>
+
+</items>
